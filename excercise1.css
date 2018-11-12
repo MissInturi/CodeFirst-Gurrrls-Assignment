@@ -1,0 +1,16 @@
+h1 {
+  color:red;
+}
+p {color:blue; font-size: 16px; font-style: Helvetica
+}
+ ul li {
+  background-color: yellow;
+}
+h2 {color:green;
+  background-color: orange;
+}
+p {color:blue; font-size: 16px; font-style: Helvetica
+}
+ol li {
+  background-color: teal;
+}
